@@ -1,0 +1,40 @@
+C:\Users\alec9\Documents\Group Work A02\Lab1_ChemicalFormula\Lab1_ChemicalFormula\bin\Debug\Lab1_ChemicalFormula.exe.config
+C:\Users\alec9\Documents\Group Work A02\Lab1_ChemicalFormula\Lab1_ChemicalFormula\bin\Debug\Lab1_ChemicalFormula.exe
+C:\Users\alec9\Documents\Group Work A02\Lab1_ChemicalFormula\Lab1_ChemicalFormula\bin\Debug\Lab1_ChemicalFormula.pdb
+C:\Users\alec9\Documents\Group Work A02\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.csprojResolveAssemblyReference.cache
+C:\Users\alec9\Documents\Group Work A02\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.MainForm.resources
+C:\Users\alec9\Documents\Group Work A02\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.Properties.Resources.resources
+C:\Users\alec9\Documents\Group Work A02\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.csproj.GenerateResource.Cache
+C:\Users\alec9\Documents\Group Work A02\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.csproj.CoreCompileInputs.cache
+C:\Users\alec9\Documents\Group Work A02\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.exe
+C:\Users\alec9\Documents\Group Work A02\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.pdb
+E:\Alec Computer Engineer Technologist\Winter Term 2018\CMPE2800\LAB\Lab1_ChemicalFormula\Lab1_ChemicalFormula\bin\Debug\Lab1_ChemicalFormula.exe.config
+E:\Alec Computer Engineer Technologist\Winter Term 2018\CMPE2800\LAB\Lab1_ChemicalFormula\Lab1_ChemicalFormula\bin\Debug\Lab1_ChemicalFormula.exe
+E:\Alec Computer Engineer Technologist\Winter Term 2018\CMPE2800\LAB\Lab1_ChemicalFormula\Lab1_ChemicalFormula\bin\Debug\Lab1_ChemicalFormula.pdb
+E:\Alec Computer Engineer Technologist\Winter Term 2018\CMPE2800\LAB\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.csprojAssemblyReference.cache
+E:\Alec Computer Engineer Technologist\Winter Term 2018\CMPE2800\LAB\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.MainForm.resources
+E:\Alec Computer Engineer Technologist\Winter Term 2018\CMPE2800\LAB\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.Properties.Resources.resources
+E:\Alec Computer Engineer Technologist\Winter Term 2018\CMPE2800\LAB\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.csproj.GenerateResource.cache
+E:\Alec Computer Engineer Technologist\Winter Term 2018\CMPE2800\LAB\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.csproj.CoreCompileInputs.cache
+E:\Alec Computer Engineer Technologist\Winter Term 2018\CMPE2800\LAB\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.exe
+E:\Alec Computer Engineer Technologist\Winter Term 2018\CMPE2800\LAB\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.pdb
+C:\Users\kmack9\Desktop\Lab1_ChemicalFormula\Lab1_ChemicalFormula\bin\Debug\Lab1_ChemicalFormula.exe.config
+C:\Users\kmack9\Desktop\Lab1_ChemicalFormula\Lab1_ChemicalFormula\bin\Debug\Lab1_ChemicalFormula.exe
+C:\Users\kmack9\Desktop\Lab1_ChemicalFormula\Lab1_ChemicalFormula\bin\Debug\Lab1_ChemicalFormula.pdb
+C:\Users\kmack9\Desktop\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.csprojAssemblyReference.cache
+C:\Users\kmack9\Desktop\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.MainForm.resources
+C:\Users\kmack9\Desktop\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.Properties.Resources.resources
+C:\Users\kmack9\Desktop\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.csproj.GenerateResource.cache
+C:\Users\kmack9\Desktop\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.csproj.CoreCompileInputs.cache
+C:\Users\kmack9\Desktop\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.exe
+C:\Users\kmack9\Desktop\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.pdb
+E:\Nait School Work\CMPE 2800\Lab1_ChemicalFormula\Lab1_ChemicalFormula\bin\Debug\Lab1_ChemicalFormula.exe.config
+E:\Nait School Work\CMPE 2800\Lab1_ChemicalFormula\Lab1_ChemicalFormula\bin\Debug\Lab1_ChemicalFormula.exe
+E:\Nait School Work\CMPE 2800\Lab1_ChemicalFormula\Lab1_ChemicalFormula\bin\Debug\Lab1_ChemicalFormula.pdb
+E:\Nait School Work\CMPE 2800\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.csprojAssemblyReference.cache
+E:\Nait School Work\CMPE 2800\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.MainForm.resources
+E:\Nait School Work\CMPE 2800\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.Properties.Resources.resources
+E:\Nait School Work\CMPE 2800\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.csproj.GenerateResource.cache
+E:\Nait School Work\CMPE 2800\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.csproj.CoreCompileInputs.cache
+E:\Nait School Work\CMPE 2800\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.exe
+E:\Nait School Work\CMPE 2800\Lab1_ChemicalFormula\Lab1_ChemicalFormula\obj\Debug\Lab1_ChemicalFormula.pdb
