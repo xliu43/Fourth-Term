@@ -1,0 +1,7 @@
+[01-Oct-2018 01:14:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/xliu4321/public_html/CI_Blog/application/views/templates/header.php on line 18
+[01-Oct-2018 23:49:54 UTC] PHP Fatal error:  Call to a member function set_rules() on null in /home/xliu4321/public_html/CapstoneProject/application/controllers/Users.php on line 6
+[02-Oct-2018 00:03:12 UTC] PHP Fatal error:  Call to a member function register() on null in /home/xliu4321/public_html/CapstoneProject/application/controllers/Users.php on line 20
+[02-Oct-2018 00:05:03 UTC] PHP Fatal error:  Call to a member function register() on null in /home/xliu4321/public_html/CapstoneProject/application/controllers/Users.php on line 20
+[02-Oct-2018 00:06:33 UTC] PHP Fatal error:  Call to a member function insert() on null in /home/xliu4321/public_html/CapstoneProject/application/models/User_model.php on line 13
+[02-Oct-2018 00:57:30 UTC] PHP Fatal error:  Call to a member function check_user_name_exists() on null in /home/xliu4321/public_html/CapstoneProject/application/controllers/Users.php on line 32
+[02-Oct-2018 02:27:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/xliu4321/public_html/CapstoneProject/application/application/libraries/twilio-php-master/twilio-php-master/Twilio/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/xliu4321/public_html/CapstoneProject/application/controllers/Users.php on line 2
